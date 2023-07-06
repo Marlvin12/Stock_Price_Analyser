@@ -5,7 +5,7 @@
 ```
 # Stock Price Analyser
 
-This project is a simple Python script that fetches historical stock prices from Yahoo Finance, analyzes the data using Pandas, and visualizes it using Matplotlib. The script uses the `yfinance` library to fetch the stock data, making it easy to get accurate and up-to-date information.
+This project is a simple Python script that fetches historical stock prices from Yahoo Finance, analyzes the data using Pandas, and visualizes it using Matplotlib. The script uses the `yfinance` library to fetch the stock data, making it easy to get accurate and up-to-date information .
 
 ## Importance
 
